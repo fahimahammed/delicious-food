@@ -1,10 +1,8 @@
-# Description 📓
+# Delicious Food
+A food seller React based responsive web app.
 
-This project using create-react-app. We intergret tailwind with postCss.
-In other to use it run command below ↓.
-
-# Run 🚀
-
-```sh
+## Installation Guide:
 npm install
-```
+
+## Technology:
+Tailwind CSS, React.js, JavaScript
